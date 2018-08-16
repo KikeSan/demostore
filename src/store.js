@@ -1,5 +1,4 @@
 import {createStore} from 'redux';
-
 const reducer = (state, action) => {
     if(action.type === 'ADD_TO_CART'){
         return {
@@ -14,5 +13,4 @@ const reducer = (state, action) => {
     }
     return state;
 };
-
 export default createStore (reducer, { cart:[] },window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
