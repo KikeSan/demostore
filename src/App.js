@@ -15,7 +15,6 @@ class App extends Component {
             </Navbar.Brand>
           </Navbar.Header>
         </Navbar>
-
         <Grid>
           <Row>
             <Col sm={8}>

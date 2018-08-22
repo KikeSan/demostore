@@ -1,3 +1,10 @@
+<p align="center">
+	<a href="http://kike.pe" target="_blank">
+        <img src="https://github.com/KikeSan/ToDoApp/blob/master/img/logoBlue.svg" alt="kike.pe" width="100"/>
+    </a>
+	<br><br>
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
